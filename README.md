@@ -16,6 +16,8 @@
 - Enter the password : Frost
 - Then hold Left Click on ur mouse
 
+- F2 to turn **OFF**
+
 ## 🤔 What is KM | Kiyoko's Macro?
 Kiyoko's Macros is an project that boosts Roblox games using Autohotkey macros.
 
