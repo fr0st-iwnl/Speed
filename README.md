@@ -8,10 +8,7 @@
 </p>
 
 ## 📚 **How to Use?**
-- Open the Speed.exe application
-- Enter the username : Frost
-- Enter the password : Frost
-- Then hold Left Click on ur mouse
+- Just open the Speed - MO.ahk and hold left click
 
 - F2 to turn **ON/OFF**
 
